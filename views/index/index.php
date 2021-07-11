@@ -4,9 +4,9 @@
 			<center><h1>Ejercicio #2</h1></center>
 		</div>
 	</div>
-	<div class="row top_margin">
+	<div class="row">
 		<div class="col-md-12">
-			<center><p>Determina si el primer número  es divisible entre el segundo</p></center>
+			<center><h4>Determina si el primer número  es divisible entre el segundo</h4></center>
 		</div>
 	</div>
 	<div class="row top_margin">
